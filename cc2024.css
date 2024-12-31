@@ -154,4 +154,9 @@ box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
 .button:active{
     box-shadow: 7px 7px 7px 7px rgba(112, 108, 111, 0.801); 
 }
-  
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } 
