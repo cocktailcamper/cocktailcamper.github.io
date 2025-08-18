@@ -45,6 +45,7 @@ h3 {
     display:       inline-block;
     font:          normal bold 4em/3.4em "Roboto", sans-serif;
     text-align:    center;
+    vertical-align: text-top;
     cursor: pointer;
     outline: none;
     transition: background-color 0.2s ease;
@@ -175,4 +176,5 @@ box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
     margin-right: auto;
     width: 50%;
   } 
+
 
