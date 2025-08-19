@@ -38,7 +38,7 @@ h3 {
 }
 .button1{
     background:    yellow;
-    border-radius: 11px;
+    border-radius: 1px;
     width:         6.5em;
     height:        2.5em;
     color:         #292b35;
@@ -48,7 +48,6 @@ h3 {
     cursor: pointer;
     outline: none;
     transition: background-color 0.2s ease;
-    padding-top: 0rem;
 }
 .button1:hover{
     background-color: #64d0fa;
@@ -176,6 +175,7 @@ box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
     margin-right: auto;
     width: 50%;
   } 
+
 
 
 
