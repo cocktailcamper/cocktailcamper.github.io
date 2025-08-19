@@ -43,7 +43,7 @@ h3 {
     height:        2.5em;
     color:         #292b35;
     display:       inline-block;
-    font:          normal bold 4em/3.4em "Roboto", sans-serif;
+    font:          normal bold 4em/2.4em "Roboto", sans-serif;
     text-align:    center;
     cursor: pointer;
     outline: none;
@@ -175,6 +175,7 @@ box-shadow: 7px 7px 7px 7px rgba(252, 58, 178, 0.801);
     margin-right: auto;
     width: 50%;
   } 
+
 
 
 
